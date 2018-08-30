@@ -7,7 +7,7 @@
 **Available databses (originally used in this order):**
 
 | Dataset | vcf name | duration* | price* |
-|----|----|----|----|
+|----|----|----:|----:|
 | clinvar | clinvar.v2.vcf.gz | 0:00:53 | $0.0042 |
 | mitomap diseases | mitomap-diseases.vcf.gz | - | - |
 | gnomad-exomes | gnomad-exomes-all-populations.vcf.gz | 0:02:39 | |

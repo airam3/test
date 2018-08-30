@@ -6,8 +6,8 @@
 
 **Available databses (originally used in this order):**
 
-| Dataset | vcf name | duration (on `test_FBN1.vcf.gz`) | price (on `test_FBN1.vcf.gz`) |
-|-------|-----------|----:|----:|
+| Dataset | vcf name | duration* | price* |
+|----|----|----|----|
 | clinvar | clinvar.v2.vcf.gz | 0:00:53 | $0.0042 |
 | mitomap diseases | mitomap-diseases.vcf.gz | - | - |
 | gnomad-exomes | gnomad-exomes-all-populations.vcf.gz | 0:02:39 | |
@@ -19,6 +19,7 @@
 | m-cap | m-cap.vcf.gz |
 | iseq | iseq-population-frequencies.vcf.gz |
 
+*on `test_FBN1.vcf.gz`
 
 **dx run command**
 

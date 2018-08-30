@@ -14,12 +14,14 @@
 | gnomad-genomes | gnomad-genomes-all-populations.vcf.gz |0:27:26 |$0.1308|
 | 1000 genomes | kg.vcf.gz | 0:02:51 | $0.0136|
 | mitomap | mitomap.vcf.gz |0:00:50|$0.0039|
-| sift | sift.vcf.gz |
+| sift | sift.vcf.gz |0:03:14|$0.0155|
 | cadd | cadd.vcf.gz |
-| m-cap | m-cap.vcf.gz |
-| iseq | iseq-population-frequencies.vcf.gz |
+| m-cap | m-cap.vcf.gz |0:01:30|$0.0072|
+| iseq | iseq-population-frequencies.vcf.gz |0:00:48|$0.0039|
 
-*on `test_FBN1.vcf.gz`
+
+*on `test_FBN1.vcf.gz` (previous version without producing file *_annotate_log.txt)
+
 
 **dx run command**
 

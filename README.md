@@ -10,10 +10,10 @@
 |----|----|----:|----:|
 | clinvar | clinvar.v2.vcf.gz | 0:00:53 | $0.0042 |
 | mitomap diseases | mitomap-diseases.vcf.gz | - | - |
-| gnomad-exomes | gnomad-exomes-all-populations.vcf.gz | 0:02:39 | |
-| gnomad-genomes | gnomad-genomes-all-populations.vcf.gz |
-| 1000 genomes | kg.vcf.gz |
-| mitomap | mitomap.vcf.gz |
+| gnomad-exomes | gnomad-exomes-all-populations.vcf.gz | 0:02:39 | $0.0127 |
+| gnomad-genomes | gnomad-genomes-all-populations.vcf.gz |0:27:26 |$0.1308|
+| 1000 genomes | kg.vcf.gz | 0:02:51 | $0.0136|
+| mitomap | mitomap.vcf.gz |0:00:50|$0.0039|
 | sift | sift.vcf.gz |
 | cadd | cadd.vcf.gz |
 | m-cap | m-cap.vcf.gz |

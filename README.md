@@ -20,7 +20,7 @@
 | iseq | iseq-population-frequencies.vcf.gz |0:00:48|$0.0039|
 
 
-*on `test_FBN1.vcf.gz` (previous version without producing file *_annotate_log.txt)
+*on `test_FBN1.vcf.gz` (previous version without producing file `*_annotate_log.txt`)
 
 
 **dx run command**

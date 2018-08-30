@@ -17,5 +17,6 @@
 | cadd | cadd.vcf.gz |   |   |
 | m-cap | m-cap.vcf.gz |   |   |
 | iseq | iseq-population-frequencies.vcf.gz |   |   |
+
 **dx run command**
 `dx run iseq_snpsift_annotate -ivcf='test_FBN1.vcf.gz' -ioutput_name='test_FBN1_annotated_clinvar' -idatabase='genetraps-resources:vcf/clinvar.v2.vcf.gz' `

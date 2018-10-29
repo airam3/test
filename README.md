@@ -1,6 +1,6 @@
 **bcl2fastq**
 
-The BaseCalls directory contains the BCL files. The _NextSeq_ and _MiniSeq_ files are located in the following directory:
+* The BaseCalls directory contains the BCL files. The _NextSeq_ and _MiniSeq_ files are located in the following directory:
 
 _Data/Intensities/BaseCalls/L<lane>_
   
